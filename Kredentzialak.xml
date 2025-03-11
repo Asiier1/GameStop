@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<erabiltzaileak>
+    <erabiltzailea>
+        <izena>admin</izena>
+        <pasahitza>admin</pasahitza>
+    </erabiltzailea>
+    <erabiltzailea> <!-- Ahora ambas etiquetas son <erabiltzailea> -->
+        <izena>Asier</izena>
+        <pasahitza>admin</pasahitza>
+    </erabiltzailea>
+</erabiltzaileak>

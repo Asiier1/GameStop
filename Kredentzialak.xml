@@ -3,9 +3,19 @@
     <erabiltzailea>
         <izena>admin</izena>
         <pasahitza>admin</pasahitza>
+        <izena>@admin</izena>
+        <abizenak>abizena</abizenak>
+        <emaila>admin@admin.com</emaila>
+        <lanpostu>administratzailea</lanpostu>
+        <profila>../assets/img/perfil.png</profila>
     </erabiltzailea>
     <erabiltzailea> <!-- Ahora ambas etiquetas son <erabiltzailea> -->
-        <izena>Asier</izena>
+        <izena>asier</izena>
         <pasahitza>admin</pasahitza>
+        <izena>@Asier</izena>
+        <abizenak>Peña Ormaetxe</abizenak>
+        <emaila>asier@gmail.com</emaila>
+        <lanpostu>arduraduna</lanpostu>
+        <profila>../assets/img/perfil2.png</profila>
     </erabiltzailea>
 </erabiltzaileak>
